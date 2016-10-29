@@ -1,0 +1,11 @@
+{
+    "user_name": "James",
+    "user_age": "10",
+    "rsvp_date": "November 28, 2016",
+    "event_date": "Saturday, December 16, 2016",
+    "event_time": "5pm",
+    "event_address": "123 S.Main St, Phoenix AZ 85004",
+    "splash_old": "static/images/users/bill/mobileOld_640x960.jpg 640w",
+    "splash_phone": "static/images/users/bill/mobileNew_1080x1920.jpg 1080w",
+    "splash_desktop": "static/images/users/bill/desktop_2200x1600.jpg 2200w"
+}
